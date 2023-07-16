@@ -3,7 +3,7 @@
   "displayName": "modernity-purple",
   "description": "Modernity Purple is a good purple theme to relax you eyes and inprove you coding skills",
   "version": "0.0.1",
-  "publisher": "Kyutsumy",
+  "publisher": "e1k6x9j9",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -16,6 +16,10 @@
     "dark",
     "modern"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyutsumy/modernity-purple"
+  },
   "contributes": {
     "themes": [
       {
