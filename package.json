@@ -1,0 +1,28 @@
+{
+  "name": "modernity-purple",
+  "displayName": "modernity-purple",
+  "description": "Modernity Purple is a good purple theme to relax you eyes and inprove you coding skills",
+  "version": "0.0.1",
+  "publisher": "Kyutsumy",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "purple",
+    "dark",
+    "modern"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modernity Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modernity Purple-color-theme.json"
+      }
+    ]
+  }
+}
