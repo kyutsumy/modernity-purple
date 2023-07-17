@@ -2,7 +2,7 @@
   "name": "modernity-purple",
   "displayName": "Modernity Purple",
   "description": "Modernity Purple is a good purple theme to relax you eyes and inprove you coding skills",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "e1k6x9j9",
   "engines": {
     "vscode": "^1.80.0"
